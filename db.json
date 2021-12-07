@@ -1,0 +1,29 @@
+{
+  "flowers": [
+  {
+    "nombre": "Girasol",
+    "descripcion": "Exótica Flor de vibrante color amarillo",
+    "urlPicture": "https://1.bp.blogspot.com/-r6GIPjzrU10/UiHVmnOiw_I/AAAAAAAAF2s/niry0YBad3E/s640/precioso+girasol.JPG"
+  },
+  {
+    "nombre": "Tulipanes",
+    "descripcion": "Sencillez y elegancia en una flor",
+    "urlPicture": "https://www.bekiahogar.com/images/articulos/85000/85848/5.jpg"
+  },
+  {
+    "nombre": "Rosas",
+    "descripcion": "Exótica Flor de apasionante color rojo",
+    "urlPicture": "https://www.mundoflores.net/imagenes/las-rosas-735x450.jpg"
+  },
+  {
+    "nombre": "Girasol",
+    "descripcion": "Exótica Flor de vibrante color amarillo",
+    "urlPicture": "https://1.bp.blogspot.com/-r6GIPjzrU10/UiHVmnOiw_I/AAAAAAAAF2s/niry0YBad3E/s640/precioso+girasol.JPG"
+  },
+  {
+    "nombre": "Girasol",
+    "descripcion": "Exótica Flor de vibrante color amarillo",
+    "urlPicture": "https://1.bp.blogspot.com/-r6GIPjzrU10/UiHVmnOiw_I/AAAAAAAAF2s/niry0YBad3E/s640/precioso+girasol.JPG"
+  }
+]
+}
